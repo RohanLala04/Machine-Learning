@@ -1,1 +1,1 @@
-These are my individual Data Science and Machine Learning projects. 
+This work uses NLP concepts and Naive Bayes Algorithm to predict the language of a text.
